@@ -54,11 +54,11 @@
 #
 # ------------------------------------------------------------------------------
 
-$my_base_url	       = "https://rally1.rallydev.com/slm"
-$my_username	       = "user@company.com"
-$my_password	       = "topsecret"
+$my_base_url	       = "https://rally1.rallydev.com/"
+$my_username	       = "daryl.chan@why-innovation.com"
+$my_password	       = "whyinnovation!"
 $my_api_version        = "1.43"
-$my_workspace_oid      = "12345678910"
+$my_workspace_oid      = "19706553516"
 $my_vars	       = "./my_vars.rb"
 
 
